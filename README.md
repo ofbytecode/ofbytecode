@@ -1,6 +1,6 @@
-# 👋 Привет, я Максим Мурзаков
+# 👋 Привет, я Максим 
 
-### Junior Full-stack Developer
+### Full-stack Developer
 
 Разрабатываю **информационные системы, веб-приложения, API и инструменты автоматизации**.
 
@@ -213,14 +213,6 @@ Backend-сервис для объединения нескольких внеш
 - 🔄 автоматизация бизнес-процессов
 - 🐳 Docker и инфраструктура
 - 🤖 AI / LLM-интеграции
-
----
-
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofbytecode&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofbytecode&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
