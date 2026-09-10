@@ -1,4 +1,4 @@
-# Максим Мурзаков
+# Максим 
 
 ### Junior Full-stack Developer
 
