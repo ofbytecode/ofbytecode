@@ -82,9 +82,9 @@
 
 **🤖 AI / LLM**
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/openai" alt="OpenAI" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/anthropic" alt="Claude" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" />
+<img height="48" src="https://img.shields.io/badge/-%20-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img height="48" src="https://img.shields.io/badge/-%20-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img height="48" src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 
 </td>
 </tr>
