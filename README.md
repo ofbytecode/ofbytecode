@@ -44,7 +44,7 @@
 <tr>
 <td width="100%">
 
-**🎨 Frontend** — React · Next.js · TypeScript · JavaScript
+**🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
@@ -53,7 +53,7 @@
 <tr>
 <td width="100%">
 
-**⚙️ Backend** — FastAPI · Spring Boot · REST API · HTTP · JSON
+**⚙️ Backend**
 
 <img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" />
 
@@ -62,7 +62,7 @@
 <tr>
 <td width="100%">
 
-**🗄️ Базы данных** — PostgreSQL · Redis · SQL
+**🗄️ Базы данных**
 
 <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
 
@@ -80,7 +80,7 @@
 <tr>
 <td width="100%">
 
-**🤖 AI / LLM** — OpenAI API · Claude API · Gemini API · LLM · Prompt Engineering
+**🤖 AI / LLM**
 
 <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
 
