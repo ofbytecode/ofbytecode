@@ -82,9 +82,9 @@
 
 **🤖 AI / LLM**
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/openai" alt="OpenAI" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/anthropic" alt="Claude" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" />
 
 </td>
 </tr>
