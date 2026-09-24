@@ -77,27 +77,7 @@
 
 </td>
 </tr>
-<tr>
-<td width="100%">
-
-**🤖 AI / LLM**
-
-<img height="48" src="https://img.shields.io/badge/-%20-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img height="48" src="https://img.shields.io/badge/-%20-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-<img height="48" src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-
-</td>
-</tr>
 </table>
-
-**Прикладные задачи:**
-
-- 📄 анализ документов
-- 🧩 структурирование информации
-- 🏷️ классификация данных
-- 🔍 извлечение информации из текста
-- 🔄 автоматизация обработки данных
-- 🔗 интеграция LLM через API
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
