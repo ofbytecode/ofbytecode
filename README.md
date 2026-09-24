@@ -82,9 +82,9 @@
 
 **🤖 AI / LLM**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
 
 </td>
 </tr>
@@ -242,16 +242,7 @@ CRM-система, разработанная на заказ для учёта
 
 Стараюсь рассматривать приложение как **целостную информационную систему**, а не просто набор отдельных страниц и функций.
 
-## 🤖 AI / LLM
-
-Интересуюсь применением LLM в прикладных системах:
-
-- анализ и классификация документов
-- извлечение структурированной информации
-- обработка текста
-- автоматизация рутинных операций
-- интеграция LLM через API
-- преобразование неструктурированной информации в структурированные данные
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 Сейчас развиваюсь
 
@@ -278,6 +269,8 @@ CRM-система, разработанная на заказ для учёта
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofbytecode&theme=tokyonight&hide_border=true" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📫 Контакты
 
