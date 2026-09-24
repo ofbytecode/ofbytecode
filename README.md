@@ -267,7 +267,7 @@ CRM-система, разработанная на заказ для учёта
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofbytecode&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ofbytecode&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
